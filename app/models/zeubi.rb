@@ -1,0 +1,2 @@
+class Zeubi < ApplicationRecord
+end
